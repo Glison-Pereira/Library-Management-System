@@ -65,5 +65,4 @@ library-management-system/
 │   ├── library.html      # Template for the library page
 │   ├── login.html        # Template for the login page
 │   └── user.html         # Template for the user dashboard
-└── requirements.txt      # Python dependencies
 ```
